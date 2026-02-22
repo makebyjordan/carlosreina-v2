@@ -1,0 +1,24 @@
+[
+  {
+    "id": "pr-001",
+    "titulo": "Residencial Santa Clara",
+    "ubicacion": "Sevilla",
+    "tipo": "Residencial",
+    "estado": "Finalizada",
+    "descripcion_corta": "Promoción residencial finalizada con enfoque en diseño eficiente y ubicación consolidada.",
+    "rol": "Promotor",
+    "imagen": "/assets/img/placeholder-1.svg",
+    "destacado": true
+  },
+  {
+    "id": "pr-002",
+    "titulo": "Edificio Alameda",
+    "ubicacion": "Sevilla",
+    "tipo": "Residencial",
+    "estado": "Finalizada",
+    "descripcion_corta": "Proyecto finalizado orientado a vivienda urbana con criterios de calidad y mercado.",
+    "rol": "Servicios inmobiliarios",
+    "imagen": "/assets/img/placeholder-2.svg",
+    "destacado": false
+  }
+]

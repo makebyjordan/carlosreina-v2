@@ -1,0 +1,24 @@
+[
+  {
+    "id": "op-001",
+    "titulo": "Suelo residencial seleccionado",
+    "ubicacion": "Sevilla",
+    "tipo": "Suelo residencial",
+    "estado": "Disponible",
+    "descripcion_corta": "Oportunidad con análisis previo de viabilidad, encaje urbanístico y demanda real.",
+    "rol": "Análisis y criterio",
+    "imagen": "/assets/img/placeholder-5.svg",
+    "destacado": true
+  },
+  {
+    "id": "op-002",
+    "titulo": "Activo residencial en reposicionamiento",
+    "ubicacion": "Cádiz",
+    "tipo": "Residencial",
+    "estado": "Disponible",
+    "descripcion_corta": "Operación con potencial de mejora tras estudio financiero y de mercado.",
+    "rol": "Servicios inmobiliarios",
+    "imagen": "/assets/img/placeholder-6.svg",
+    "destacado": false
+  }
+]

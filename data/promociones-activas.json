@@ -1,0 +1,35 @@
+[
+  {
+    "id": "pa-001",
+    "titulo": "Residencial Dos Hermanas",
+    "ubicacion": "Dos Hermanas, Sevilla",
+    "tipo": "Residencial",
+    "estado": "Activa",
+    "descripcion_corta": "Finalización del proyecto de 11 viviendas en Dos Hermanas, Sevilla, para ofertar alquiler asequible.",
+    "rol": "Promotor",
+    "imagen": "/assets/img/dos-hermanas-carlos-reina.png",
+    "destacado": true
+  },
+  {
+    "id": "pa-002",
+    "titulo": "Conjunto Bellavista",
+    "ubicacion": "Bellavista, Sevilla",
+    "tipo": "Residencial",
+    "estado": "Activa",
+    "descripcion_corta": "Finalización del proyecto de 3 viviendas en Bellavista, Sevilla, para ofertar alquiler asequible.",
+    "rol": "Rehacondicionado",
+    "imagen": "/assets/img/bellavista-carlos-reina.png",
+    "destacado": true
+  },
+  {
+    "id": "pa-003",
+    "titulo": "Conjunto El Puerto",
+    "ubicacion": "Puerto de Santa María",
+    "tipo": "Residencial",
+    "estado": "Activa",
+    "descripcion_corta": "Rehabilitación de 9 viviendas en el Puerto de Santa María, Cádiz, para ofertar alquiler asequible.",
+    "rol": "Rehacondicionado",
+    "imagen": "/assets/img/puerto-de-santa-maria-carlos-reina.png",
+    "destacado": true
+  }
+]
