@@ -1,0 +1,5 @@
+# Video assets are uploaded manually to the server/CDN
+/video/*
+!/video/.gitkeep
+/assets/video/*
+!/assets/video/.gitkeep
